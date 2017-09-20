@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{D87BFD86-FB34-438F-B777-75DCEB5953AF}" SchemaVersion="80">
+	<GameParameters>
+		<WorkUnit Name="Default Work Unit" ID="{D87BFD86-FB34-438F-B777-75DCEB5953AF}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="XPosition" ID="{961068A8-98BC-46FB-B4AB-5CB7A8DF2B06}">
+					<PropertyList>
+						<Property Name="Min" Type="Real64" Value="-100"/>
+					</PropertyList>
+				</GameParameter>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

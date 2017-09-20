@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Android" BasePlatform="Android" SchemaVersion="11" SoundbankVersion="125">
+	<RootPaths>
+		<ProjectRoot>/Users/EsbenNyboeJacobsen/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/z:/Users/Shared/Unity/Wwise test project/Wwise test project_WwiseProject/</ProjectRoot>
+		<SourceFilesRoot>/Users/EsbenNyboeJacobsen/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/z:/Users/Shared/Unity/Wwise test project/Wwise test project_WwiseProject/.cache/Android/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/EsbenNyboeJacobsen/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/z:/Users/Shared/Unity/Wwise test project/Wwise test project_WwiseProject/GeneratedSoundBanks/Android/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>/Users/EsbenNyboeJacobsen/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/z:/Users/Shared/Unity/Wwise test project/Wwise test project_WwiseProject/GeneratedSoundBanks/Android/</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3416573779" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\IntegrationShit</ObjectPath>
+			<ShortName>IntegrationShit</ShortName>
+			<Path>IntegrationShit.bnk</Path>
+			<IncludedEvents>
+				<Event Id="85412153" Name="Ambience" ObjectPath="\Events\Default Work Unit\Ambience"/>
+				<Event Id="2698625392" Name="PressSpace" ObjectPath="\Events\Default Work Unit\PressSpace"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="334624364" Language="SFX">
+					<ShortName>AmbienceIntroMenu2.wav</ShortName>
+					<Path>SFX/AmbienceIntroMenu2_F17FB28C.wem</Path>
+				</File>
+				<File Id="352161111" Language="SFX">
+					<ShortName>MusicIntroMenu.wav</ShortName>
+					<Path>SFX/MusicIntroMenu_F17FB28C.wem</Path>
+				</File>
+				<File Id="682406709" Language="SFX">
+					<ShortName>Duck1.wav</ShortName>
+					<Path>SFX/Duck1_1C9C67B2.wem</Path>
+				</File>
+				<File Id="837256200" Language="SFX">
+					<ShortName>DuckOnscreen1.wav</ShortName>
+					<Path>SFX/DuckOnscreen1_1C9C67B2.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

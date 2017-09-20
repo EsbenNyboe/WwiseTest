@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4babcc6a810e34d53a66916f238053ed, type: 3}
+  m_Name: AkWwiseProjectData
+  m_EditorClassIdentifier: 
+  CurrentPluginConfig: 
+  EventWwu:
+  - PhysicalPath: Events/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    Guid: '{A3724935-51E9-4784-B42F-D1219E07BA56}'
+    m_lastTimePsrt1: -557240960
+    m_lastTimePart2: -1999306889
+    List:
+    - Name: Ambience
+      Path: Default Work Unit/Ambience
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Ambience
+        ObjectType: 3
+      ID: 85412153
+      Guid: 37a2fe6c14ed4e449625224821dc8f75
+      maxAttenuation: 0
+    - Name: PressSpace
+      Path: Default Work Unit/PressSpace
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: PressSpace
+        ObjectType: 3
+      ID: -1596341904
+      Guid: 6b046c49ffb97442bd59acaa32eda436
+      maxAttenuation: 0
+  AuxBusWwu:
+  - PhysicalPath: Master-Mixer Hierarchy/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    Guid: '{4706B539-FFFE-4758-A135-586423E31F5E}'
+    m_lastTimePsrt1: 957595520
+    m_lastTimePart2: -1999306893
+    List:
+    - Name: Reverb
+      Path: Default Work Unit/Master Audio Bus/Reverb
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      - ElementName: Reverb
+        ObjectType: 1
+      ID: 348963605
+      Guid: d3a6e0822739414f8ab3780b06024493
+  StateWwu:
+  - PhysicalPath: States/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    Guid: '{8AC7BC48-BC32-43E1-8FE2-AAF07D6176D3}'
+    m_lastTimePsrt1: 1822759040
+    m_lastTimePart2: -1999306888
+    List:
+    - Name: LeftRight
+      Path: Default Work Unit/LeftRight
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: LeftRight
+        ObjectType: 9
+      ID: -1711576940
+      Guid: 08b3684e152e82449ab22a5373b01762
+      values:
+      - Left
+      - None
+      - Right
+      ValueIcons:
+      - ElementName: Left
+        ObjectType: 8
+      - ElementName: None
+        ObjectType: 8
+      - ElementName: Right
+        ObjectType: 8
+      valueIDs: 32b43e00db3ba32c49f016e8
+      ValueGuids:
+      - bytes: af696dbeb426234587539937002cf98c
+      - bytes: 8ab8fb32a0f3084fa4ce571605b3d643
+      - bytes: cc49f32eb918a14cb6bde484ead39e7d
+  SwitchWwu:
+  - PhysicalPath: Switches/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    Guid: '{E27DA99D-DD61-434B-AF16-740AD5837B0A}'
+    m_lastTimePsrt1: 1887660928
+    m_lastTimePart2: -1999306891
+    List:
+    - Name: LeftRight
+      Path: Default Work Unit/LeftRight
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: LeftRight
+        ObjectType: 11
+      ID: -1711576940
+      Guid: a66d259bf79745448b10a766b01f8a7e
+      values:
+      - Left
+      - Right
+      ValueIcons:
+      - ElementName: Left
+        ObjectType: 10
+      - ElementName: Right
+        ObjectType: 10
+      valueIDs: 32b43e0049f016e8
+      ValueGuids:
+      - bytes: af47bf01682e634b982c7f040c46197a
+      - bytes: 22e5f8452befde4e83328139c907caa7
+  BankWwu:
+  - PhysicalPath: SoundBanks/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    Guid: '{00A724EF-054A-49BE-980B-78C5FCBD1F80}'
+    m_lastTimePsrt1: -557240960
+    m_lastTimePart2: -1999306889
+    List:
+    - Name: IntegrationShit
+      Path: Default Work Unit/IntegrationShit
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: IntegrationShit
+        ObjectType: 7
+      ID: -878393517
+      Guid: 3784eab39434af418165bcc9379ee891
+  RtpcWwu:
+  - PhysicalPath: Game Parameters/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    Guid: '{D87BFD86-FB34-438F-B777-75DCEB5953AF}'
+    m_lastTimePsrt1: -1037175552
+    m_lastTimePart2: -1999306887
+    List:
+    - Name: XPosition
+      Path: Default Work Unit/XPosition
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: XPosition
+        ObjectType: 13
+      ID: 779132718
+      Guid: a8681096bc98fb46b4ab5cb7a8df2b06
+  TriggerWwu:
+  - PhysicalPath: Triggers/Default Work Unit.wwu
+    ParentPhysicalPath: 
+    Guid: '{E8E0C093-7A3B-4B27-AF3F-E2D94BC7D096}'
+    m_lastTimePsrt1: -977437184
+    m_lastTimePart2: -1999306895
+    List: []
+  ExpandedItems:
+  - /Wwise test project_WwiseProject
+  m_lastPopulateTimePsrt1: 0
+  m_lastPopulateTimePart2: 0
+  autoPopulateEnabled: 1
+  basePath: Audio/GeneratedSoundBanks
+  language: English(US)
+  defaultPoolSize: 4096
+  lowerPoolSize: 2048
+  streamingPoolSize: 1024
+  preparePoolSize: 0
+  memoryCutoffThreshold: 0.95
+  callbackManagerBufferSize: 4

@@ -1,0 +1,32 @@
+Event	ID	Name			Wwise Object Path	Notes
+	85412153	Ambience			\Default Work Unit\Ambience	
+	2698625392	PressSpace			\Default Work Unit\PressSpace	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	2583390356	LeftRight			\Default Work Unit\LeftRight	
+
+Switch	ID	Name	Switch Group			Notes
+	4109362	Left	LeftRight			
+	3893817417	Right	LeftRight			
+
+State Group	ID	Name			Wwise Object Path	Notes
+	2583390356	LeftRight			\Default Work Unit\LeftRight	
+
+State	ID	Name	State Group			Notes
+	4109362	Left	LeftRight			
+	748895195	None	LeftRight			
+	3893817417	Right	LeftRight			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	211106864	Right	LeftRight	\Actor-Mixer Hierarchy\Default Work Unit\AmbientSounds\MusicIntroMenu		
+	692809751	Left	LeftRight	\Actor-Mixer Hierarchy\Default Work Unit\AmbientSounds\AmbienceIntroMenu2		
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	779132718	XPosition			\Default Work Unit\XPosition	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	334624364	AmbienceIntroMenu2	Z:\Users\Shared\Unity\Wwise test project\Wwise test project_WwiseProject\.cache\Windows\SFX\AmbienceIntroMenu2_F17FB28C.wem		\Actor-Mixer Hierarchy\Default Work Unit\AmbientSounds\AmbienceIntroMenu2		2822540
+	352161111	MusicIntroMenu	Z:\Users\Shared\Unity\Wwise test project\Wwise test project_WwiseProject\.cache\Windows\SFX\MusicIntroMenu_F17FB28C.wem		\Actor-Mixer Hierarchy\Default Work Unit\AmbientSounds\MusicIntroMenu		4704144
+	682406709	Duck1	Z:\Users\Shared\Unity\Wwise test project\Wwise test project_WwiseProject\.cache\Windows\SFX\Duck1_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\SpaceSounds\Duck1		67492
+	837256200	DuckOnscreen1	Z:\Users\Shared\Unity\Wwise test project\Wwise test project_WwiseProject\.cache\Windows\SFX\DuckOnscreen1_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\SpaceSounds\DuckOnscreen1		43604
+

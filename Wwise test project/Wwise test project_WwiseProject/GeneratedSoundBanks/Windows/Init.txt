@@ -1,0 +1,18 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	2583390356	LeftRight			\Default Work Unit\LeftRight	
+
+State	ID	Name	State Group			Notes
+	4109362	Left	LeftRight			
+	748895195	None	LeftRight			
+	3893817417	Right	LeftRight			
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	805203703	Master Secondary Bus			\Default Work Unit\Master Secondary Bus	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	348963605	Reverb			\Default Work Unit\Master Audio Bus\Reverb	
+
+Effect plug-ins	ID	Name	Type				Notes
+	3164629247	Holy	Wwise RoomVerb			
+

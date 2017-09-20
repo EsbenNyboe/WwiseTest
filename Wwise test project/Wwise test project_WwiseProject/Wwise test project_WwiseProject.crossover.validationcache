@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="80">
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project\Wwise test project_WwiseProject\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1219636736" DateHigh="30618109"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project\Wwise test project_WwiseProject\Attenuations\Default Work Unit.wwu" DateLow="2739305984" DateHigh="30617946"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project\Wwise test project_WwiseProject\Audio Devices\Default Work Unit.wwu" DateLow="2739305984" DateHigh="30617946"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project\Wwise test project_WwiseProject\Control Surface Sessions\Default Work Unit.wwu" DateLow="379371392" DateHigh="30617948"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project\Wwise test project_WwiseProject\Conversion Settings\Default Work Unit.wwu" DateLow="2739305984" DateHigh="30617946"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project\Wwise test project_WwiseProject\Conversion Settings\Factory Conversion Settings.wwu" DateLow="2739305984" DateHigh="30617946"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project\Wwise test project_WwiseProject\Dynamic Dialogue\Default Work Unit.wwu" DateLow="2739305984" DateHigh="30617946"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project\Wwise test project_WwiseProject\Effects\Default Work Unit.wwu" DateLow="2739305984" DateHigh="30617946"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project\Wwise test project_WwiseProject\Effects\Factory Effects.wwu" DateLow="2739305984" DateHigh="30617946"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project\Wwise test project_WwiseProject\Events\Default Work Unit.wwu" DateLow="3159502208" DateHigh="30617952"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project\Wwise test project_WwiseProject\Game Parameters\Default Work Unit.wwu" DateLow="2679567616" DateHigh="30617954"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project\Wwise test project_WwiseProject\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="2739305984" DateHigh="30617946"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project\Wwise test project_WwiseProject\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="379371392" DateHigh="30617948"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project\Wwise test project_WwiseProject\Mixing Sessions\Default Work Unit.wwu" DateLow="2739305984" DateHigh="30617946"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project\Wwise test project_WwiseProject\Modulators\Default Work Unit.wwu" DateLow="2739305984" DateHigh="30617946"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project\Wwise test project_WwiseProject\Presets\Default Work Unit.wwu" DateLow="2739305984" DateHigh="30617946"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project\Wwise test project_WwiseProject\Queries\Default Work Unit.wwu" DateLow="2739305984" DateHigh="30617946"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project\Wwise test project_WwiseProject\Queries\Factory Queries.wwu" DateLow="2739305984" DateHigh="30617946"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project\Wwise test project_WwiseProject\SoundBanks\Default Work Unit.wwu" DateLow="3159502208" DateHigh="30617952"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project\Wwise test project_WwiseProject\Soundcaster Sessions\Default Work Unit.wwu" DateLow="2739305984" DateHigh="30617946"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project\Wwise test project_WwiseProject\States\Default Work Unit.wwu" DateLow="1244534912" DateHigh="30617953"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project\Wwise test project_WwiseProject\Switches\Default Work Unit.wwu" DateLow="1309436800" DateHigh="30617950"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project\Wwise test project_WwiseProject\Triggers\Default Work Unit.wwu" DateLow="2739305984" DateHigh="30617946"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project\Wwise test project_WwiseProject\Virtual Acoustics\Default Work Unit.wwu" DateLow="2739305984" DateHigh="30617946"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project\Wwise test project_WwiseProject\Wwise test project_WwiseProject.crossover.wsettings" DateLow="2445450624" DateHigh="30617981"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project\Wwise test project_WwiseProject\Wwise test project_WwiseProject.wproj" DateLow="2739305984" DateHigh="30617946"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project_WwiseIntegrationTemp\Wwise test project_WwiseProject\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1389305984" DateHigh="30617946"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project_WwiseIntegrationTemp\Wwise test project_WwiseProject\Attenuations\Default Work Unit.wwu" DateLow="1389305984" DateHigh="30617946"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project_WwiseIntegrationTemp\Wwise test project_WwiseProject\Audio Devices\Default Work Unit.wwu" DateLow="1389305984" DateHigh="30617946"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project_WwiseIntegrationTemp\Wwise test project_WwiseProject\Control Surface Sessions\Default Work Unit.wwu" DateLow="1389305984" DateHigh="30617946"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project_WwiseIntegrationTemp\Wwise test project_WwiseProject\Conversion Settings\Default Work Unit.wwu" DateLow="1389305984" DateHigh="30617946"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project_WwiseIntegrationTemp\Wwise test project_WwiseProject\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1724097920" DateHigh="30616105"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project_WwiseIntegrationTemp\Wwise test project_WwiseProject\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1389305984" DateHigh="30617946"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project_WwiseIntegrationTemp\Wwise test project_WwiseProject\Effects\Default Work Unit.wwu" DateLow="1389305984" DateHigh="30617946"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project_WwiseIntegrationTemp\Wwise test project_WwiseProject\Effects\Factory Effects.wwu" DateLow="1724097920" DateHigh="30616105"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project_WwiseIntegrationTemp\Wwise test project_WwiseProject\Events\Default Work Unit.wwu" DateLow="1389305984" DateHigh="30617946"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project_WwiseIntegrationTemp\Wwise test project_WwiseProject\Game Parameters\Default Work Unit.wwu" DateLow="1389305984" DateHigh="30617946"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project_WwiseIntegrationTemp\Wwise test project_WwiseProject\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1389305984" DateHigh="30617946"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project_WwiseIntegrationTemp\Wwise test project_WwiseProject\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1389305984" DateHigh="30617946"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project_WwiseIntegrationTemp\Wwise test project_WwiseProject\Mixing Sessions\Default Work Unit.wwu" DateLow="1389305984" DateHigh="30617946"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project_WwiseIntegrationTemp\Wwise test project_WwiseProject\Modulators\Default Work Unit.wwu" DateLow="1389305984" DateHigh="30617946"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project_WwiseIntegrationTemp\Wwise test project_WwiseProject\Presets\Default Work Unit.wwu" DateLow="1389305984" DateHigh="30617946"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project_WwiseIntegrationTemp\Wwise test project_WwiseProject\Queries\Default Work Unit.wwu" DateLow="1389305984" DateHigh="30617946"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project_WwiseIntegrationTemp\Wwise test project_WwiseProject\Queries\Factory Queries.wwu" DateLow="1734097920" DateHigh="30616105"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project_WwiseIntegrationTemp\Wwise test project_WwiseProject\SoundBanks\Default Work Unit.wwu" DateLow="1389305984" DateHigh="30617946"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project_WwiseIntegrationTemp\Wwise test project_WwiseProject\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1389305984" DateHigh="30617946"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project_WwiseIntegrationTemp\Wwise test project_WwiseProject\States\Default Work Unit.wwu" DateLow="1389305984" DateHigh="30617946"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project_WwiseIntegrationTemp\Wwise test project_WwiseProject\Switches\Default Work Unit.wwu" DateLow="1389305984" DateHigh="30617946"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project_WwiseIntegrationTemp\Wwise test project_WwiseProject\Triggers\Default Work Unit.wwu" DateLow="1389305984" DateHigh="30617946"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project_WwiseIntegrationTemp\Wwise test project_WwiseProject\Virtual Acoustics\Default Work Unit.wwu" DateLow="1389305984" DateHigh="30617946"/>
+	<ValidationCacheItem File="Z:\Users\Shared\Unity\Wwise test project_WwiseIntegrationTemp\Wwise test project_WwiseProject\Wwise test project_WwiseProject.wproj" DateLow="1389305984" DateHigh="30617946"/>
+</ValidationCache>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{00A724EF-054A-49BE-980B-78C5FCBD1F80}" SchemaVersion="80">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{00A724EF-054A-49BE-980B-78C5FCBD1F80}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="IntegrationShit" ID="{B3EA8437-3494-41AF-8165-BCC9379EE891}">
+					<ObjectInclusionList>
+						<ObjectRef Name="PressSpace" ID="{496C046B-B9FF-4274-BD59-ACAA32EDA436}" WorkUnitID="{A3724935-51E9-4784-B42F-D1219E07BA56}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="Ambience" ID="{6CFEA237-ED14-444E-9625-224821DC8F75}" WorkUnitID="{A3724935-51E9-4784-B42F-D1219E07BA56}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

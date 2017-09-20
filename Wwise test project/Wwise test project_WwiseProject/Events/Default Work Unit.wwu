@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{A3724935-51E9-4784-B42F-D1219E07BA56}" SchemaVersion="80">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{A3724935-51E9-4784-B42F-D1219E07BA56}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="PressSpace" ID="{496C046B-B9FF-4274-BD59-ACAA32EDA436}">
+					<ChildrenList>
+						<Action Name="" ID="{FFA316A5-C54D-4D96-BD54-8D4F14C8519B}" ShortID="636403424">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="SpaceSounds" ID="{F0E5BAF6-CA0B-4BC2-AA87-4E49AB017127}" WorkUnitID="{3C8FD505-8784-48BE-A44C-CCD726E7C700}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Ambience" ID="{6CFEA237-ED14-444E-9625-224821DC8F75}">
+					<ChildrenList>
+						<Action Name="" ID="{F6FC17CF-A229-4B24-A5C3-6F480EA5978F}" ShortID="135368012">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="AmbientSounds" ID="{CF7FD007-860F-4066-9331-E98695CC33F4}" WorkUnitID="{3C8FD505-8784-48BE-A44C-CCD726E7C700}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
